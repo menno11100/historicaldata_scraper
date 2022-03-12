@@ -1,5 +1,5 @@
 # coinmarketcap
-This is webscraper to scrape the data from coinmarketcaps historical data pages using selenium
+This is a webscraper to scrape the data from coinmarketcap historical data pages using selenium
 
 ## Run file
 Run main.py
